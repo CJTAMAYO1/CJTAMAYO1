@@ -8,12 +8,12 @@
 
 ## 🧰 Tech Stack
 
-- **Lenguajes:** Dart, Python, JavaScript
+- **Lenguajes:** Dart, Python, Java, JavaScript
 - **Mobile:** Flutter, Firebase
-- **Frontend:** React, HTML5, CSS3, Tailwind
+- **Frontend:** React, HTML5, Tailwind
 - **Backend:** Django, Django REST Framework
 - **Herramientas:** Git, GitHub, Figma, Postman
-- **Bases de Datos:** PostgreSQL, SQLite, Firebase Firestore
+- **Bases de Datos:** SQL, PostgreSQL, Firebase Firestore
 
 ---
 
@@ -51,15 +51,7 @@
 - 📖 Estudiando arquitectura de software y testing automatizado
 - 🧪 Apasionado por el código limpio, patrones de diseño y buenas prácticas
 
----
 
-## 🕹️ ¡Juega DOOM en tu navegador!
-
-[![Jugar DOOM](https://img.shields.io/badge/Jugar%20DOOM-Online-blue?logo=doom)](https://js-dos.com/games/doom.exe.html)
-
-> *Este clásico se ejecuta en una página externa. Puede tardar unos segundos en cargar.*
-
----
 
 ## 🤝 ¿Colaboramos?
 
